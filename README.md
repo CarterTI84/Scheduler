@@ -32,7 +32,7 @@ Thank you for trying our app!
 	
 
 CREATED BY:
-	Ammar Vora	
-	Carter Tam	
-	Grace Zhou
+	Ammar Vora,	
+	Carter Tam,	
+	Grace Zhou, and
 	Faiz Hanafi
